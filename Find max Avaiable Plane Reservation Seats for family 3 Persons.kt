@@ -1,3 +1,4 @@
+/*
 You are processing plane seat reservations. The plane has N rows of seats, numbered from
 1 to N. There are ten seats in each row(labelled from A to K, with letter I omitted).
 
@@ -17,7 +18,7 @@ Note:
 ● N is an integer within the range [1...50];
 ● N is an integer within the range [0...1,909];
 ● String S consists of valid seat names separated with space
-
+*/
 
 //Kotlin solution 
 fun solution(N: Int, S: String?): Int {
