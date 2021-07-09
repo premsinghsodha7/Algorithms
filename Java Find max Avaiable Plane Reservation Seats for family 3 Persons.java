@@ -1,3 +1,4 @@
+/*
 You are processing plane seat reservations. The plane has N rows of seats, numbered from
 1 to N. There are ten seats in each row(labelled from A to K, with letter I omitted), as shown
 in the figure below:
@@ -17,7 +18,7 @@ Note:
 ● N is an integer within the range [1...50];
 ● N is an integer within the range [0...1,909];
 ● String S consists of valid seat names separated with space
-
+*/
 
 //Java
 public static  int solution(int N,String S){
